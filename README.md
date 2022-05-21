@@ -9,6 +9,8 @@ TODO: make sure the above script _doesn't_ cause my account to get suspended
 
 TODO: become good friends with 💸Bill💸 in case of emergency
 
+If you see this name on any other online thing that isn't linking explicitly to this and any other such online accounts (like the keybase file [here](https://gist.github.com/twolettername/b4703f5d22e89903f8c7de371c6a3db8)!), it isn't me.
+
 <!---
 twolettername/twolettername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
